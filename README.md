@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ## :gear: Skills:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" align="center"/>
-
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html5" width="40" align="center"/>
+<img src="https://img2.gratispng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" alt="css3" width="40" align="center"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" align="center"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" align="center"/>
 
 **construction**
