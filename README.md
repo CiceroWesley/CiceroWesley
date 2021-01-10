@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40"/>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html5" width="40"/>
 <img src="https://img2.gratispng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" alt="css3" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40"/>
 </span>
-**construction**
+
+## :computer: My social networks:
+<span>
+<a href="https://www.instagram.com/cicero_wesleysf/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Python" width="40"/></a>  
+</span>
