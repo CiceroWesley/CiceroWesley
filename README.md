@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## :gear: Skills:
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40"/>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html5" width="40"/>
+<img src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40"/>
